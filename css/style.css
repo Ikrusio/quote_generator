@@ -1,0 +1,31 @@
+
+#mid{
+    display: flex;
+    justify-content: center;
+    margin: 150px;
+}
+.container {
+    background-color: #664c04;
+    border: 5px dotted rgb(215, 5, 235);
+    height: 275px;
+    width: 750px;
+    margin: 40px;
+    text-align: center;
+}
+
+#btn {
+    margin: 50px auto;
+    height: 50px;
+    font-size: 22px;
+    background-color: rgb(247, 6, 6);
+}
+
+
+#output {
+    margin: 25px auto;
+    font-size: 26px;
+    color: white;
+}
+#output:hover{
+    color: black;
+}
